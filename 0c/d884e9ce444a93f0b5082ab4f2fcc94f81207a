@@ -1,0 +1,19 @@
+docs/dsv4_kv_cache/07-skip-writeback-plan.md
+  s_cae8eb0aff8ce1::t_88cbfa15e522f2 72-104,123-127,135-140,233-234,267-271
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "0cd884e9ce444a93f0b5082ab4f2fcc94f81207a",
+  "prompts": {},
+  "sessions": {
+    "s_cae8eb0aff8ce1": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f6091-8f83-7af3-b304-24d373e5288d",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Ziyi Cai <zc417@sas50a6d8d2b6a0.sas.rutgers.edu>"
+    }
+  }
+}
