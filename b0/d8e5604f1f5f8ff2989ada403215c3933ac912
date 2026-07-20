@@ -1,0 +1,25 @@
+docs/dsv4_kv_cache/dsv4_checkpoint_pareto_interactive.html
+  s_97d1464dc31086::t_cb0584fbcbea54 1-124
+docs/dsv4_kv_cache/dsv4_checkpoint_points.csv
+  s_97d1464dc31086::t_d023315caec3e7 1-58696
+docs/dsv4_kv_cache/plot_checkpoint_pareto.py
+  s_97d1464dc31086::t_991243b09d01b2 1-284
+docs/dsv4_kv_cache/swa-kv-offloading-analysis.md
+  s_97d1464dc31086::t_e63b2c5a33a13e 629-1461,1470-1471
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "b0d8e5604f1f5f8ff2989ada403215c3933ac912",
+  "prompts": {},
+  "sessions": {
+    "s_97d1464dc31086": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f7d66-b897-77e3-b063-b9cdf1ba423f",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "ziyi-apx <a_crazy_czy@163.com>"
+    }
+  }
+}
