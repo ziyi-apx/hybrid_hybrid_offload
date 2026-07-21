@@ -1,0 +1,58 @@
+docs/dsv4_kv_cache/g1-g2-checkpoint-pareto.md
+  s_97d1464dc31086::t_9337e03f7e1252 1-154,156-164
+  s_97d1464dc31086::t_35134d24353108 155
+docs/dsv4_kv_cache/dsv4_checkpoint_g1_g2_g3_probe.csv
+  s_97d1464dc31086::t_9cead2d5e0b328 2-9
+  s_97d1464dc31086::t_ec2bf28afe7abe 1
+docs/dsv4_kv_cache/dsv4_checkpoint_g1_g2_pareto.csv
+  s_97d1464dc31086::t_1d3d601f046ca7 2-3416
+  s_97d1464dc31086::t_e9b4e8a847dde5 1
+docs/dsv4_kv_cache/plot_checkpoint_g1_g2_pareto.py
+  s_97d1464dc31086::t_08af6d593fde76 54
+  s_97d1464dc31086::t_83d5805c1cf42f 436
+  s_97d1464dc31086::t_1e68688b2e1540 1-27,30-53,55-56,58-62,72-93,98-106,159-160,173-200,202-204,208,212-269,273-328,429-435,438,440-453,460-462,464-469,471-472,476-486,489-494,496-498,500-506,508-511
+  s_97d1464dc31086::t_53cd227194ed17 329-388,391,393-428
+  s_97d1464dc31086::t_e9227727c3c612 28-29,94-97,107-158,161-172
+  s_97d1464dc31086::t_2255aec370ef40 201,205-207,209-211,270-272
+  s_97d1464dc31086::t_5e25d57da4b987 389-390,392
+  s_97d1464dc31086::t_6627451dae62d2 67,70
+  s_97d1464dc31086::t_90dc23ed7adcc8 57,63-66,68-69,71,437,439,470,487-488
+  s_97d1464dc31086::t_72d0cb80859c35 463,499,507
+  s_97d1464dc31086::t_e51555d2c87228 454-459,473-475,495
+docs/dsv4_kv_cache/dsv4_checkpoint_g1_g2_metadata.json
+  s_97d1464dc31086::t_05ea184a9d7fe4 20
+  s_97d1464dc31086::t_1d3d601f046ca7 7,24-25
+  s_97d1464dc31086::t_e9b4e8a847dde5 1-6,10-19,21-23,26
+  s_97d1464dc31086::t_eb6600f76542eb 8-9
+docs/dsv4_kv_cache/dsv4_checkpoint_g1_g2_pareto_interactive.html
+  s_97d1464dc31086::t_05ea184a9d7fe4 1-75
+docs/dsv4_kv_cache/probe_checkpoint_g1_g2_g3.py
+  s_97d1464dc31086::t_dcafc01934be72 336-337
+  s_97d1464dc31086::t_1cd7342a27b51a 296-313,317-321
+  s_97d1464dc31086::t_aa9f6d04c8da00 330-335,357-358
+  s_97d1464dc31086::t_1dd9819787b571 1-18,22-183,195-197,199-201,203,230-250,255-264,267-281,283-290,293-295,314-316,322-329,338-356,359-378,387,389-425
+  s_97d1464dc31086::t_2abb017e88fce1 204-229
+  s_97d1464dc31086::t_11c4c77262005b 19-21,184-194,198,202
+  s_97d1464dc31086::t_ecec6b76fb29e1 251-254
+  s_97d1464dc31086::t_d8f3c7f7c4d69c 265-266,282,291-292,379-386,388
+docs/dsv4_kv_cache/segmented-checkpoint-gap-analysis.md
+  s_97d1464dc31086::t_fa86e3676655fc 1-216
+docs/dsv4_kv_cache/swa-kv-offloading-analysis.md
+  s_97d1464dc31086::t_96b6cce460be0c 639
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "93817ff98186d15939e86f476d9e2a6d09022e88",
+  "prompts": {},
+  "sessions": {
+    "s_97d1464dc31086": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f7d66-b897-77e3-b063-b9cdf1ba423f",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "ziyi-apx <a_crazy_czy@163.com>"
+    }
+  }
+}
