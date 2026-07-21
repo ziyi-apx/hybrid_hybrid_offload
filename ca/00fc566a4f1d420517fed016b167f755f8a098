@@ -1,0 +1,26 @@
+docs/dsv4_kv_cache/segmented_checkpoint_gap/g1-g2-checkpoint-pareto.md
+  s_04ef1bcface785::t_862557f30a778f 222,224,226,228-230,232-242
+docs/dsv4_kv_cache/segmented_checkpoint_gap/dsv4_checkpoint_equal_g_metadata.json
+  s_04ef1bcface785::t_a89bc7bff4b838 34-36
+docs/dsv4_kv_cache/segmented_checkpoint_gap/plot_checkpoint_equal_g_comparison.py
+  s_04ef1bcface785::t_49ab7265bb76e4 261,264-266,270-272,279,281,285,301,313-315,324,326-328,330,332-333,336-352,355-359,363,368
+  s_04ef1bcface785::t_3695c3f782f5a8 526
+docs/dsv4_kv_cache/segmented_checkpoint_gap/dsv4_checkpoint_g1_g2_pareto_interactive.html
+  s_04ef1bcface785::t_a89bc7bff4b838 974,976,980,996,1008-1010,1019,1021-1023,1025,1027-1028,1031-1047,1050-1054,1058,1063
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "ca00fc566a4f1d420517fed016b167f755f8a098",
+  "prompts": {},
+  "sessions": {
+    "s_04ef1bcface785": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f8385-dbfb-7772-9922-4cdf8f9267d8",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "ziyi-apx <a_crazy_czy@163.com>"
+    }
+  }
+}
