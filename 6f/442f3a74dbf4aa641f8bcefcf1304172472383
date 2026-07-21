@@ -1,0 +1,33 @@
+docs/dsv4_kv_cache/segmented_checkpoint_gap/dsv4_checkpoint_equal_g_pareto.csv
+  s_04ef1bcface785::t_ffb7a5516b104f 1-1637
+docs/dsv4_kv_cache/segmented_checkpoint_gap/dsv4_checkpoint_g1_g2_pareto_interactive.html
+  s_04ef1bcface785::t_8150ce89fdb37e 817,974,986-988
+  s_04ef1bcface785::t_ffb7a5516b104f 972-973,975-985,989-1072
+docs/dsv4_kv_cache/segmented_checkpoint_gap/plot_checkpoint_g1_g2_pareto.py
+  s_04ef1bcface785::t_bb44a4048af6f0 465,491
+  s_04ef1bcface785::t_f26a61773ac902 409-413
+docs/dsv4_kv_cache/segmented_checkpoint_gap/g1-g2-checkpoint-pareto.md
+  s_04ef1bcface785::t_e797e79689117f 165-237
+docs/dsv4_kv_cache/segmented_checkpoint_gap/dsv4_checkpoint_equal_g_metadata.json
+  s_04ef1bcface785::t_ffb7a5516b104f 1-45,49-214
+  s_04ef1bcface785::t_8150ce89fdb37e 46-48
+docs/dsv4_kv_cache/segmented_checkpoint_gap/plot_checkpoint_equal_g_comparison.py
+  s_04ef1bcface785::t_f26a61773ac902 1-339,341-351,355-445,469-620
+  s_04ef1bcface785::t_bb44a4048af6f0 340,352-354,446-468
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "6f442f3a74dbf4aa641f8bcefcf1304172472383",
+  "prompts": {},
+  "sessions": {
+    "s_04ef1bcface785": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f8385-dbfb-7772-9922-4cdf8f9267d8",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "ziyi-apx <a_crazy_czy@163.com>"
+    }
+  }
+}
