@@ -1,0 +1,19 @@
+docs/dsv4_kv_cache/segmented_checkpoint_gap/g1-g2-checkpoint-pareto.md
+  s_4c7e27689cbb8a::t_66938a19cae725 158-181
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "6f7210d1045734a6ee70fa16cd5998553a143693",
+  "prompts": {},
+  "sessions": {
+    "s_4c7e27689cbb8a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f83c2-92d6-7c93-8267-ce776fb34255",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "ziyi-apx <a_crazy_czy@163.com>"
+    }
+  }
+}
