@@ -1,0 +1,55 @@
+docs/dsv4_kv_cache/segmented_checkpoint_gap/plot_checkpoint_equal_g_comparison.py
+  s_4c7e27689cbb8a::t_b515f5e5805abb 106,108,113-116,128-129,134-137
+  s_4c7e27689cbb8a::t_3b6435c53c88b9 506-510
+docs/dsv4_kv_cache/segmented_checkpoint_gap/dsv4_checkpoint_points.csv
+  s_4c7e27689cbb8a::t_ec1687360943c8 2-58696
+docs/dsv4_kv_cache/segmented_checkpoint_gap/plot_checkpoint_pareto.py
+  s_4c7e27689cbb8a::t_b515f5e5805abb 29-31,35,43-45,47-48,50-53,56-59,71-73,248
+  s_4c7e27689cbb8a::t_bd50ba5fbd1f2d 201
+  s_4c7e27689cbb8a::t_2c1f05b2e8ac41 74-75,78-79
+docs/dsv4_kv_cache/segmented_checkpoint_gap/dsv4_checkpoint_g1_g2_pareto.csv
+  s_4c7e27689cbb8a::t_97d77c794e0c2d 2-3544
+docs/dsv4_kv_cache/segmented_checkpoint_gap/segmented-checkpoint-gap-analysis.md
+  s_4c7e27689cbb8a::t_1090a087b4ddf7 280,283-285,297-298,307-310,319
+  s_4c7e27689cbb8a::t_b214421ddbcf37 3,38,40-46,52,57-58,62,66,70,73,76,78,83,87,93,97,103,108-109,113,116,119,123,129,132-134,139,143,147-149,153,156,158,166-169,176,178,188
+  s_4c7e27689cbb8a::t_3e199e2fd2315b 199-200,209-210,234-236,244,248-249,252,257-258,268-269
+docs/dsv4_kv_cache/segmented_checkpoint_gap/dsv4_checkpoint_equal_g_metadata.json
+  s_4c7e27689cbb8a::t_9f7f8f22a2e648 3-7,40-42
+  s_4c7e27689cbb8a::t_eed19ab2c7c5c9 53,71,89,107,125,143,161,179,197
+docs/dsv4_kv_cache/segmented_checkpoint_gap/plot_checkpoint_g1_g2_pareto.py
+  s_4c7e27689cbb8a::t_bd50ba5fbd1f2d 48,478
+  s_4c7e27689cbb8a::t_b515f5e5805abb 38,42,49-54,56-64,275-276,278-279,287,289-292,300-301,303
+  s_4c7e27689cbb8a::t_7134c7fe172559 481,484,800-804
+docs/dsv4_kv_cache/segmented_checkpoint_gap/dsv4_checkpoint_g1_g2_pareto_interactive.html
+  s_4c7e27689cbb8a::t_eed19ab2c7c5c9 819,822,825,852-853,997
+docs/dsv4_kv_cache/segmented_checkpoint_gap/dsv4_checkpoint_g1_g2_metadata.json
+  s_4c7e27689cbb8a::t_97d77c794e0c2d 65,73,81,89,97,105,113,121,129,131-136
+docs/dsv4_kv_cache/segmented_checkpoint_gap/dsv4_checkpoint_pareto_interactive.html
+  s_4c7e27689cbb8a::t_ec1687360943c8 33,48,80
+docs/dsv4_kv_cache/segmented_checkpoint_gap/g1-g2-checkpoint-pareto.md
+  s_4c7e27689cbb8a::t_6d53adfdab5654 15,23-24,55,67-69,91-92,95,148-156
+  s_4c7e27689cbb8a::t_7134c7fe172559 256,259
+  s_4c7e27689cbb8a::t_1a23b7f4d0c2b0 160,165,171,174,176,178
+  s_4c7e27689cbb8a::t_9a652b2a3433c1 206,212,237-245
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "a5d1df61b23056988e62871155d60b3c5aeb2833",
+  "prompts": {},
+  "humans": {
+    "h_0992937d83b553": {
+      "author": "ziyi-apx <a_crazy_czy@163.com>"
+    }
+  },
+  "sessions": {
+    "s_4c7e27689cbb8a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f83c2-92d6-7c93-8267-ce776fb34255",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "ziyi-apx <a_crazy_czy@163.com>"
+    }
+  }
+}
