@@ -1,0 +1,19 @@
+.github/workflows/deploy-g1-g2-pages.yml
+  s_56dc2b45b879b6::t_79ba2f23904484 6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "f36b6f62d694bd146880008f258e3258dd156f09",
+  "prompts": {},
+  "sessions": {
+    "s_56dc2b45b879b6": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f9369-d36d-79e2-b33d-ce2c55c7bdd3",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "ziyi-apx <a_crazy_czy@163.com>"
+    }
+  }
+}
