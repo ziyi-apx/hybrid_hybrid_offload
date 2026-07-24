@@ -3,7 +3,7 @@ name: Deploy g1/g2 checkpoint Pareto page
 on:
   push:
     branches:
-      - experiment
+      - fork-pages
     paths:
       - docs/dsv4_kv_cache/segmented_checkpoint_gap/dsv4_checkpoint_g1_g2_pareto_interactive.html
       - .github/workflows/deploy-g1-g2-pages.yml
